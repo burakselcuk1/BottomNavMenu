@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/pageOne">
+    <fragment
+        android:id="@+id/pageOne"
+        android:name="com.example.tasarm1.ui.PageOne"
+        android:label="fragment_page_one"
+        tools:layout="@layout/fragment_page_one" >
+        <action
+            android:id="@+id/action_pageOne_to_pageTwo2"
+            app:destination="@id/pageTwo" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageTwo"
+        android:name="com.example.tasarm1.ui.PageTwo"
+        android:label="fragment_page_two"
+        tools:layout="@layout/fragment_page_two" >
+        <action
+            android:id="@+id/action_pageTwo2_to_pageThree2"
+            app:destination="@id/pageThree" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageThree"
+        android:name="com.example.tasarm1.ui.PageThree"
+        android:label="fragment_page_three"
+        tools:layout="@layout/fragment_page_three" >
+        <action
+            android:id="@+id/action_pageThree2_to_pageFour2"
+            app:destination="@id/pageFour" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageFour"
+        android:name="com.example.tasarm1.ui.PageFour"
+        android:label="fragment_page_four"
+        tools:layout="@layout/fragment_page_four" >
+        <action
+            android:id="@+id/action_pageFour2_to_pageFive2"
+            app:destination="@id/pageFive" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageFive"
+        android:name="com.example.tasarm1.ui.PageFive"
+        android:label="fragment_page_five"
+        tools:layout="@layout/fragment_page_five" />
+</navigation>

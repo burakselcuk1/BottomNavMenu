@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pageOne"
+        android:title="burak"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/pageTwo"
+        android:title="burask"
+        android:icon="@drawable/ic_baseline_move_to_inbox_24"/>
+
+    <item
+        android:id="@+id/pageThree"
+        android:title="buraak"
+        android:icon="@drawable/ic_matt_icons_emblem_plus"/>
+
+    <item
+        android:id="@+id/pageFour"
+        android:title="buradk"
+        android:icon="@drawable/ic_baseline_add_road_24"/>
+
+    <item
+        android:id="@+id/pageFive"
+        android:title="burfak"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+</menu>
