@@ -15,7 +15,7 @@
         style="@style/Widget.MaterialComponents.BottomNavigationView.Colored"
 
         app:itemTextColor="@color/white"
-        android:background="#2E2E2E"
+        android:background="#161a23"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:menu="@menu/bottom_nav_menu"
