@@ -9,7 +9,6 @@
         android:layout_height="wrap_content"
         android:scaleType="fitStart"
         android:adjustViewBounds="true"
-
         android:src="@drawable/cardd" />
 
 </RelativeLayout>
