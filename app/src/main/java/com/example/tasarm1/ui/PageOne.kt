@@ -105,10 +105,10 @@ class PageOne : Fragment() {
     }
 
     private fun defineCryptoParametres(): ArrayList<Crypto> {
-        val a = Crypto("fsda")
-        val b = Crypto("fsda")
-        val c = Crypto("fsda")
-        val d = Crypto("fsda")
+        val a = Crypto("GBP")
+        val b = Crypto("USD")
+        val c = Crypto("TL")
+        val d = Crypto("EUR")
 
         val adana = arrayListOf<Crypto>(a,b,c,d)
         return adana
