@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        //Bottom Nav Menu
         navController= Navigation.findNavController(this,R.id.fragmentContainerView)
         setupWithNavController(binding.bottomNavigationView,navController)
 

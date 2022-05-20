@@ -12,6 +12,9 @@
         <action
             android:id="@+id/action_pageOne_to_pageTwo2"
             app:destination="@id/pageTwo" />
+        <action
+            android:id="@+id/action_pageOne_to_notificationFragment"
+            app:destination="@id/notificationFragment" />
     </fragment>
     <fragment
         android:id="@+id/pageTwo"
@@ -45,4 +48,9 @@
         android:name="com.example.tasarm1.ui.PageFive"
         android:label="fragment_page_five"
         tools:layout="@layout/fragment_page_five" />
+    <dialog
+        android:id="@+id/notificationFragment"
+        android:name="com.example.tasarm1.ui.NotificationFragment"
+        android:label="fragment_notification"
+        tools:layout="@layout/fragment_notification" />
 </navigation>

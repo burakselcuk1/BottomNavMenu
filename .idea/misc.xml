@@ -3,17 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/a.xml" value="0.103" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1445" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/ic_baseline_add_road_24.xml" value="0.1445" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1445" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/ic_baseline_move_to_inbox_24.xml" value="0.1445" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/ic_matt_icons_emblem_plus.xml" value="0.1" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/drawable/row_background.xml" value="0.2345" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/action_bar.xml" value="0.33" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/credit_card.xml" value="0.22" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/exchange.xml" value="0.33" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/fragment_notification.xml" value="0.22" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/fragment_page_five.xml" value="0.1" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/fragment_page_four.xml" value="0.1" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/fragment_page_one.xml" value="0.1" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/fragment_page_three.xml" value="0.1" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/fragment_page_two.xml" value="0.1" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/main_page_row_item.xml" value="0.255859375" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/main_page_row_item_two.xml" value="0.1" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/nav_header.xml" value="0.26015625" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/layout/transaction.xml" value="0.33" />
         <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/yaren/AndroidStudioProjects/tasarm1/app/src/main/res/menu/menutwo.xml" value="0.2609375" />
       </map>
     </option>
   </component>

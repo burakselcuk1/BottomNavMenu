@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/pageOne"
+        android:title="burak"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item
+        android:id="@+id/pageTwo"
+        android:title="burask"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item
+        android:id="@+id/pageThree"
+        android:title="buraak"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item
+        android:id="@+id/pageFour"
+        android:title="buradk"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item
+        android:id="@+id/pageFive"
+        android:title="burfak"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
