@@ -3,14 +3,16 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/okk"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="200dp">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="92dp"
+        android:layout_marginTop="80dp"
         android:text="header"
+        android:textStyle="bold"
         android:textColor="@color/black"
         android:textSize="26sp"
         app:layout_constraintEnd_toEndOf="parent"
